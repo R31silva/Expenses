@@ -1,4 +1,4 @@
-namespace Expenses
+namespace Expenses.Api
 {
     public class WeatherForecast
     {
